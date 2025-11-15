@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GuaFru4m4rPoJqNQkqYe/+86g30sRK4TIQPJS81EyjQ=",
+  "Source": "JWTBearerToken",
+  "BasePath": "_content/JWTBearerToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
